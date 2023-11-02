@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="b81b2f3b-ec7d-4689-a287-f736a7ae8e56" configVersion="30aca46b2be179499041d86953efaf9d00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="67c8e1a8-d0d1-4191-9412-19ad505e61fa" configVersion="3f9452b46c4c4d4c86d63634958e2af500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="67c8e1a8-d0d1-4191-9412-19ad505e61fa.0" configVersion="40d40377700ca949b30b6e69888f26a800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="39044117-916a-419d-a6e9-5bee1c03175b" configVersion="4767696b81532c459e2ad668df4bb97d00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="15b3736c-9137-4655-bee1-b30a8f5f7b06.8" configVersion="08d2c939e8a47942a9eb8d2f2e00c48900000000"/>
+		<Metadata name="DataProcessor.ОбработкаЧислоПрописью" id="8a0b0263-53e1-466a-86e0-0f1f00b82dfe" configVersion="c33672ae6717b84b89107c033eb4914c00000000"/>
+		<Metadata name="DataProcessor.ОбработкаЧислоПрописью.Form.Форма" id="28881ab7-8a5d-4881-a270-b5863002cbe6" configVersion="fdaf2ab2e5443b448345f60ce47f9ecf00000000"/>
+		<Metadata name="DataProcessor.ОбработкаЧислоПрописью.Form.Форма.Form" id="28881ab7-8a5d-4881-a270-b5863002cbe6.0" configVersion="79e53c43e6eced43b2e27052115a62ea00000000"/>
+		<Metadata name="Language.Русский" id="c464c0db-962a-482a-95ca-ffc2aed1541b" configVersion="2fb8cd2576a2314993e11d3f3a15efd100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
